@@ -1,1 +1,1 @@
-# Food-Application-Hcakathon
+# Food-Application-Hackathon
